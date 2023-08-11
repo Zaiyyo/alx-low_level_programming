@@ -1,5 +1,2 @@
-#include <stdio.h>
-
-int main(void)
-{
-}
+#!/bin/bash
+export CFILE=0-main.c
