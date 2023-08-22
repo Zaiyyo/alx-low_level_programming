@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 /**
- * Write a function that takes a pointer as parameter and updates
+ * 0-reset_to_98 - Write a function that takes a pointer as parameter and updates
  * the value
  * @n: pointer to update
  */
