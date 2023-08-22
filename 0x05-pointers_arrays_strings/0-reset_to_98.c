@@ -2,8 +2,8 @@
 #include <stdio.h>
 
 /**
- * Write a function that takes a pointer as parameter and updates the value 
- *
+ * Write a function that takes a pointer as parameter and updates
+ * the value
  * Return: Always 0.
  */
 
