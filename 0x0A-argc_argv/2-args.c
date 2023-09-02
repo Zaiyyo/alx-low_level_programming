@@ -1,27 +1,19 @@
 #include <stdio.h>
-#include <stdlib.h>
+#include "main.h"
+
 /**
- * main - a program that multiplies two numbers
+ * main - a function that prints all argument it receives
  * @argc: input
  * @argv: input
- * Return: Always 0 Success
+ * Return: Always 0 (Success)
  */
 int main(int argc, char *argv[])
 {
-	int i, res = 1;
+	int i;
 
-	if (argc != 3)
+	for (i = 0; i < argc; i++)
 	{
-		printf("%s\n", "Error");
-		return (1);
-	}
-	else
-	{
-		for (i = 1; i < argc; i++)
-		{
-			res *= atoi(argv[i]);
-		}
-		printf("%d\n", res);
+		printf("%s\n", argv[i]);
 	}
 	return (0);
 }
