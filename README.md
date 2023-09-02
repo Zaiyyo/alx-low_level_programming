@@ -1,1 +1,1 @@
-the first C programming readme
+readme
