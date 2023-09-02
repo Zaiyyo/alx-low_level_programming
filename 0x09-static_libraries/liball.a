@@ -1,0 +1,4 @@
+!<arch>
+liball.o/       0           0     0     644     23        `
+$ ar -rc libname.a *.o
+
