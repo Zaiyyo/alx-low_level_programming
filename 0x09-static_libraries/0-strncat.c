@@ -1,8 +1,11 @@
 #include <stdio.h>
 #include "main.h"
 
-/*
- * main - a function
+/**
+ * _strncat - a function
+ * @dest: something
+ * @src: something
+ * @n: something
  *
  * Return: 0
  */
