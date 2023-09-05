@@ -8,7 +8,7 @@
  * @size: size of character
  * @c: a character to be initialized with
  *
- * Return:
+ * Return: arr or NULL
  */
 char *create_array(unsigned int size, char c)
 {
